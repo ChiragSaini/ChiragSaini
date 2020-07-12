@@ -14,9 +14,11 @@ I am proficent in Python development especially in ML and Web Dev Using Django a
 - Django, ReactJS, Keras, PyTorch, Flask, Flutter, TensorflowJS, Sci-kit Learn, Numpy, Pandas, Plotly, Streamlit
 
 ***
-### [Check out My Resume here](Chirag_CV.pdf)
+### <a href="https://github.com/ChiragSaini/ChiragSaini/blob/master/Chirag_CV.pdf" target="_blank">Check Out my Resume Here</a>
 ***
 ### Socials:
-- [Portfolio]("https://chiragsaini.github.io/")
-- [Linkedin]("https://www.linkedin.com/in/chiragsaini97/")
-- [Twitter]("https://twitter.com/ChiragSaini97")
+<ul>
+    <li><a href="https://chiragsaini.github.io/" target="_blank">Portfolio</a></li>
+    <li><a href="https://www.linkedin.com/in/chiragsaini97" target="_blank">Linkedin</a></li>
+    <li><a href="https://twitter.com/ChiragSaini97" target="_blank">Twitter</a></li>
+</ul>
