@@ -7,11 +7,11 @@ I am proficent in Python development especially in ML and Web Dev Using Django a
 ***
 
 ### Languages:
-- Python, C++, JavaScript, Dart
+- Python, C++, JavaScript, Dart, C
 
 ***
 ### Frameworks and Librarires:
-- Django, ReactJS, Keras, PyTorch, Flask, Flutter
+- Django, ReactJS, Keras, PyTorch, Flask, Flutter, TensorflowJS, Sci-kit Learn, Numpy, Pandas, Plotly, Streamlit
 
 ***
 ### [Check out My Resume here]("./Chirag_CV.pdf")
