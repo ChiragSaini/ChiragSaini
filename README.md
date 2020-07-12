@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**ChiragSaini/ChiragSaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Myself **Chirag Saini**. I am recent Computer Science Graduate.
 
-Here are some ideas to get you started:
+I am proficent in Python development especially in ML and Web Dev Using Django as Backend.
+#### Looking for Jo Opportunities as SDE / Data Scientist.
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+- Python
+- C++
+- JavaScript
+- Dart
+
+***
+### Frameworks and Librarires:
+- Django
+- ReactJS
+- Keras
+- Pytorch
+- Flask
+- Flutter
+
+***
+### [Check out My Resume here]("./Chirag_CV.pdf")
+***
+### Socials:
+- [Portfolio]("https://chiragsaini.github.io/")
+- [Linkedin]("https://www.linkedin.com/in/chiragsaini97/")
+- [Twitter]("https://twitter.com/ChiragSaini97")
