@@ -1,24 +1,31 @@
-## Hi there 👋
+# Chirag Saini&nbsp; :man_technologist:
 
-Myself **Chirag Saini**. I am recent Computer Science Graduate.
+### <img src="https://i.imgur.com/LjAp1cP.gif" width="29px"> Hey Fellas!&nbsp;<img src="https://i.imgur.com/U8H7HGx.gif" width="24px">
 
-I am proficent in Python development especially in ML and Web Dev Using Django as Backend.
-#### Looking for ***Job Opportunities*** as SDE / Data Scientist.
-***
+<p>
+  <em>
+I am recent Computer Science Graduate.
 
-### Languages:
-- Python, C++, JavaScript, Dart, C
+I am proficent in Python development especially in ML and Web Dev Using ReactJS as Frontend and Django/Node as Backend. Looking for ***Job Opportunities*** as SDE / Data Scientist.
+</p>
 
-***
-### Frameworks and Librarires:
-- Django, ReactJS, Keras, PyTorch, Flask, Flutter, TensorflowJS, Sci-kit Learn, Numpy, Pandas, Plotly, Streamlit
+<br>
 
-***
-### <a href="https://github.com/ChiragSaini/ChiragSaini/blob/master/Chirag_CV.pdf" target="_blank">Check Out my Resume Here</a>
-***
-### Socials:
-<ul>
-    <li><a href="https://chiragsaini.github.io/" target="_blank">Portfolio</a></li>
-    <li><a href="https://www.linkedin.com/in/chiragsaini97" target="_blank">Linkedin</a></li>
-    <li><a href="https://twitter.com/ChiragSaini97" target="_blank">Twitter</a></li>
-</ul>
+![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=ChiragSaini&show_icons=true&hide_border=true)
+
+## Connect with me
+
+<br>
+
+  <a href="https://www.linkedin.com/in/chiragsaini97/">
+    <img align="left" alt="Chirag Saini | Linkedin" width="24px" src="https://i.imgur.com/PvNs4zI.png" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:chiragsaini7777@gmail.com">
+    <img align="left" alt="Chirag Saini | Gmail" width="26px" src="https://i.imgur.com/YPJY5XJ.png" />
+  </a>&nbsp;&nbsp;
+  <a href="https://chiragsaini.github.io/">
+    <img align="left" alt="Chirag Saini | Website" width="26px" src="https://i.imgur.com/ol4Pqw6.png" />
+  </a>
+ 
+<br>
+<br>
